@@ -1,6 +1,5 @@
 # Advent of Code v2021
 
-_____________________________
-|1|Sonar Sweep|:star: :star:|
-_____________________________
-
+| ID | Name      |   stars     |
+-----|-----------|---------------|
+| 1 | Sonar Sweep | :star: :star: |
