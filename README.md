@@ -4,5 +4,6 @@
 -----|-----------|---------------|
 | 1 | Sonar Sweep | :star: :star: |
 | 2 | Dive! | :star: :star:|
+| 2 | Binary diagnostic | :star: :star:|
 _____________________________
 
