@@ -6,6 +6,7 @@
 | 2 | Dive! | :star: :star:|
 | 3 | Binary diagnostic | :star: :star:|
 | 4 | Giant Squid | :star: :star:|
-| 4 | Hydrothermal Venture | :star: :star:|
+| 5 | Hydrothermal Venture | :star: :star:|
+| 6 | Lanternfish | :star: :star:|
 _____________________________
 
