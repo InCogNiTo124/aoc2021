@@ -8,5 +8,6 @@
 | 4 | Giant Squid | :star: :star:|
 | 5 | Hydrothermal Venture | :star: :star:|
 | 6 | Lanternfish | :star: :star:|
+| 7 | The Treachery of Whales | :star: :star:|
 _____________________________
 
