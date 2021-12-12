@@ -10,5 +10,6 @@
 | 6 | Lanternfish | :star: :star:|
 | 7 | The Treachery of Whales | :star: :star:|
 | 8 | Seven Segment Search | :star: :star:|
+| 9 | Smoke Basin | :star: :star:|
 _____________________________
 
