@@ -13,4 +13,5 @@
 |  9 | Smoke Basin              | :star: :star: |
 | 10 | Syntax Scoring           | :star: :star: |
 | 11 | Dumbo Scoring            | :star: :star: |
-| 11 | Passage Pathing          | :star: :star: |
+| 12 | Passage Pathing          | :star: :star: |
+| 13 | Transparent origami      | :star: :star: |
